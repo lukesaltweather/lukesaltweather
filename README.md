@@ -1,13 +1,6 @@
 <h1 align="center">Hello, I'm Andreas, or luke in online communities!</h1>
 <h3 align="center">The bulk of my work has been on my discord bot, Akashi.</h3>
 
-- 🌱 I’m currently learning **rust**
-
-- 💬 Ask me about **Python, Discord.py**
-
-- 📫 How to reach me **lukesaltweather@gmail.com**
-
-- ⚡ Fun fact **I'd like to have a cat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
