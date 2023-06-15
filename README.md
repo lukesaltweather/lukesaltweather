@@ -1,5 +1,4 @@
-<h1 align="center">Hello, I'm Andreas, or luke in online communities!</h1>
-<h3 align="center">The bulk of my work has been on my discord bot, Akashi.</h3>
+<h1 align="center">Hello, I'm Andreas.</h1>
 
 
 <h3 align="left">Connect with me:</h3>
